@@ -5,8 +5,8 @@
 <head>
 <title>Home</title>
 <style>
-table {border:1px solid black;}
-tr, th, td {border:1px solid black;} 
+table {border:1px solid pink;}
+tr, th, td {border:1px solid pink;} 
 </style>
 </head>
 <body>

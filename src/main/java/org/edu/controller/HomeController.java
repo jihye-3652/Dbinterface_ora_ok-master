@@ -42,7 +42,7 @@ public class HomeController {
 		String formattedDate = dateFormat.format(date);
 		
 		model.addAttribute("serverTime", formattedDate );
-		String maker = "김일국";
+		String maker = "김지혜";
 		model.addAttribute("jspMaker", maker);
 		//제네릭타입-List<Type>을 사용하는 이유는 실행시(runtime)에서만 발생될 수 있는 에러를
 		//서버에 올리기 전에 미리 이클립스 단에서 컴파일시 에러를 확인 가능하게 하기 위해서 
